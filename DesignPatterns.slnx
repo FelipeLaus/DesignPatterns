@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Behavioral/">
+    <Project Path="ChainOfResponsability/ChainOfResponsability.csproj" Id="485b8073-82c2-48cb-b71c-380ba1a68b16" />
     <Project Path="Strategy/Strategy.csproj" />
   </Folder>
 </Solution>
