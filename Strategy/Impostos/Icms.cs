@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Strategy.Impostos
+﻿namespace Strategy.Impostos
 {
     public class Icms : Imposto
     {
