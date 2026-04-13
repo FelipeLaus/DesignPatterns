@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Behavioral/">
+    <Project Path="Strategy/Strategy.csproj" />
+  </Folder>
+</Solution>
