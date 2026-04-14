@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Behavioral/">
     <Project Path="ChainOfResponsability/ChainOfResponsability.csproj" Id="485b8073-82c2-48cb-b71c-380ba1a68b16" />
+    <Project Path="State/State.csproj" Id="5443e612-c44a-46d7-a635-95470130387c" />
     <Project Path="Strategy/Strategy.csproj" />
     <Project Path="TemplateMethod/TemplateMethod.csproj" Id="f1a3683f-0c50-43b8-87cd-56e5fc84e6b1" />
   </Folder>
