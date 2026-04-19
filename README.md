@@ -22,6 +22,7 @@ DesignPatterns/
 ├── Strategy/
 ├── TemplateMethod/
 ├── Observer/
+├── Iterator/
 └── README.md
 ```
 
@@ -29,11 +30,17 @@ DesignPatterns/
 
 ### Padrões Comportamentais (Behavioral)
 
-- [x] **Command** - Encapsula uma requisição como um objeto
 - [x] **Chain of Responsibility** - Passa requisições ao longo de uma cadeia de handlers
+- [x] **Command** - Encapsula uma requisição como um objeto
+- [ ] **Interpreter** - Define uma representação gramatical para uma linguagem
+- [x] **Iterator** - Acessa elementos sequencialmente sem expor a estrutura
+- [ ] **Mediator** - Define um objeto que encapsula a interação entre objetos
+- [ ] **Memento** - Captura e restaura o estado interno de um objeto
+- [x] **Observer** - Define dependência um-para-muitos entre objetos
 - [x] **State** - Permite que um objeto altere seu comportamento quando seu estado interno muda
 - [x] **Strategy** - Define uma família de algoritmos e os torna intercambiáveis
 - [x] **Template Method** - Define o esqueleto de um algoritmo, delegando alguns passos às subclasses
+- [ ] **Visitor** - Define uma nova operação sem alterar as classes dos elementos
 
 ### Padrões Criacionais (Creational)
 
@@ -52,15 +59,6 @@ DesignPatterns/
 - [ ] **Facade** - Fornece uma interface simplificada para um subsistema
 - [ ] **Flyweight** - Compartilha objetos para suportar grandes quantidades
 - [ ] **Proxy** - Fornece um substituto para controlar o acesso a um objeto
-
-### Outros Padrões Comportamentais
-
-- [ ] **Interpreter** - Define uma representação gramatical para uma linguagem
-- [ ] **Iterator** - Acessa elementos sequencialmente sem expor a estrutura
-- [ ] **Mediator** - Define um objeto que encapsula a interação entre objetos
-- [ ] **Memento** - Captura e restaura o estado interno de um objeto
-- [x] **Observer** - Define dependência um-para-muitos entre objetos
-- [ ] **Visitor** - Define uma nova operação sem alterar as classes dos elementos
 
 ## 🚀 Como Executar
 
