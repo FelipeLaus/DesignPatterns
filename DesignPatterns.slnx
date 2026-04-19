@@ -2,6 +2,7 @@
   <Folder Name="/Behavioral/">
     <Project Path="ChainOfResponsability/ChainOfResponsability.csproj" Id="485b8073-82c2-48cb-b71c-380ba1a68b16" />
     <Project Path="Command/Command.csproj" Id="673946bc-e08c-4a64-b4ff-3fe23d360d5a" />
+    <Project Path="Iterator/Iterator.csproj" Id="11eaf1c9-5ff2-4127-b80a-6501eadbbbbe" />
     <Project Path="Observer/Observer.csproj" Id="0bd335f1-5f6d-4934-b885-3d47069dab3e" />
     <Project Path="State/State.csproj" Id="5443e612-c44a-46d7-a635-95470130387c" />
     <Project Path="Strategy/Strategy.csproj" />
