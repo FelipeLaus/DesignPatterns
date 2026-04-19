@@ -21,6 +21,7 @@ DesignPatterns/
 ├── State/
 ├── Strategy/
 ├── TemplateMethod/
+├── Observer/
 └── README.md
 ```
 
@@ -58,7 +59,7 @@ DesignPatterns/
 - [ ] **Iterator** - Acessa elementos sequencialmente sem expor a estrutura
 - [ ] **Mediator** - Define um objeto que encapsula a interação entre objetos
 - [ ] **Memento** - Captura e restaura o estado interno de um objeto
-- [ ] **Observer** - Define dependência um-para-muitos entre objetos
+- [x] **Observer** - Define dependência um-para-muitos entre objetos
 - [ ] **Visitor** - Define uma nova operação sem alterar as classes dos elementos
 
 ## 🚀 Como Executar
