@@ -16,24 +16,32 @@ Cada Design Pattern está implementado em um projeto separado dentro da soluçã
 
 ```
 DesignPatterns/
-├── ChainOfResponsability/
-├── Command/
-├── Interpreter/
-├── Iterator/
-├── Mediator/
-├── Memento/
-├── Observer/
-├── State/
-├── Strategy/
-├── TemplateMethod/
-├── Visitor/
-├── Adapter/
-├── Bridge/
-├── Composite/
-├── Decorator/
-├── Facade/
-├── Flyweight/
-├── Proxy/
+├── Behavioral/
+│   ├── ChainOfResponsability/
+│   ├── Command/
+│   ├── Interpreter/
+│   ├── Iterator/
+│   ├── Mediator/
+│   ├── Memento/
+│   ├── Observer/
+│   ├── State/
+│   ├── Strategy/
+│   ├── TemplateMethod/
+│   └── Visitor/
+├── Structural/
+│   ├── Adapter/
+│   ├── Bridge/
+│   ├── Composite/
+│   ├── Decorator/
+│   ├── Facade/
+│   ├── Flyweight/
+│   └── Proxy/
+├── Creational/
+│   ├── AbstractFactory/
+│   ├── Builder/
+│   ├── FactoryMethod/
+│   ├── Prototype/
+│   └── Singleton/
 └── README.md
 ```
 
@@ -53,13 +61,13 @@ DesignPatterns/
 - [x] **Template Method** - Define o esqueleto de um algoritmo, delegando alguns passos às subclasses
 - [x] **Visitor** - Define uma nova operação sem alterar as classes dos elementos
 
-### Padrões Criacionais (Creational) — 0/5
+### Padrões Criacionais (Creational) — 5/5
 
-- [ ] **Abstract Factory** - Cria famílias de objetos relacionados
-- [ ] **Builder** - Constrói objetos complexos passo a passo
-- [ ] **Factory Method** - Define uma interface para criar objetos
-- [ ] **Prototype** - Cria novos objetos clonando instâncias existentes
-- [ ] **Singleton** - Garante uma única instância de uma classe
+- [x] **Abstract Factory** - Cria famílias de objetos relacionados
+- [x] **Builder** - Constrói objetos complexos passo a passo
+- [x] **Factory Method** - Define uma interface para criar objetos
+- [x] **Prototype** - Cria novos objetos clonando instâncias existentes
+- [x] **Singleton** - Garante uma única instância de uma classe
 
 ### Padrões Estruturais (Structural) — 7/7
 
