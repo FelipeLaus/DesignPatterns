@@ -12,4 +12,7 @@
     <Project Path="TemplateMethod/TemplateMethod.csproj" Id="f1a3683f-0c50-43b8-87cd-56e5fc84e6b1" />
     <Project Path="Visitor/Visitor.csproj" Id="7c49f2ac-b356-4f4d-b02a-f89c9c199b60" />
   </Folder>
+  <Folder Name="/Structural/">
+    <Project Path="Adapter/Adapter.csproj" Id="eb76daa9-9b5d-4afc-9003-a66c37dceea6" />
+  </Folder>
 </Solution>
