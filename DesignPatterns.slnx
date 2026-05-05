@@ -19,5 +19,6 @@
     <Project Path="Decorator/Decorator.csproj" Id="70fad3b6-ec23-4f3f-b790-d6a2001be8bf" />
     <Project Path="Facade/Facade.csproj" Id="6b21ad0a-1a2e-472b-b5c9-a9f5f86ae734" />
     <Project Path="Flyweight/Flyweight.csproj" Id="e5f6d3a3-de0c-40cc-9a9a-937ee13eaa27" />
+    <Project Path="Proxy/Proxy.csproj" Id="20cc2a96-6d74-4daf-a528-08470333d469" />
   </Folder>
 </Solution>
