@@ -12,37 +12,48 @@ Aprofundar o conhecimento em Design Patterns através da prática, implementando
 
 ## 📂 Estrutura do Projeto
 
-Cada Design Pattern está implementado em um projeto separado dentro da solução:
+Cada Design Pattern está implementado em um projeto separado dentro da solução, organizado por categoria:
 
 ```
 DesignPatterns/
-├── Command/
 ├── ChainOfResponsability/
+├── Command/
+├── Interpreter/
+├── Iterator/
+├── Mediator/
+├── Memento/
+├── Observer/
 ├── State/
 ├── Strategy/
 ├── TemplateMethod/
-├── Observer/
-├── Iterator/
+├── Visitor/
+├── Adapter/
+├── Bridge/
+├── Composite/
+├── Decorator/
+├── Facade/
+├── Flyweight/
+├── Proxy/
 └── README.md
 ```
 
 ## ✅ Patterns Implementados
 
-### Padrões Comportamentais (Behavioral)
+### Padrões Comportamentais (Behavioral) — 11/11
 
 - [x] **Chain of Responsibility** - Passa requisições ao longo de uma cadeia de handlers
 - [x] **Command** - Encapsula uma requisição como um objeto
-- [ ] **Interpreter** - Define uma representação gramatical para uma linguagem
+- [x] **Interpreter** - Define uma representação gramatical para uma linguagem
 - [x] **Iterator** - Acessa elementos sequencialmente sem expor a estrutura
-- [ ] **Mediator** - Define um objeto que encapsula a interação entre objetos
-- [ ] **Memento** - Captura e restaura o estado interno de um objeto
+- [x] **Mediator** - Define um objeto que encapsula a interação entre objetos
+- [x] **Memento** - Captura e restaura o estado interno de um objeto
 - [x] **Observer** - Define dependência um-para-muitos entre objetos
 - [x] **State** - Permite que um objeto altere seu comportamento quando seu estado interno muda
 - [x] **Strategy** - Define uma família de algoritmos e os torna intercambiáveis
 - [x] **Template Method** - Define o esqueleto de um algoritmo, delegando alguns passos às subclasses
-- [ ] **Visitor** - Define uma nova operação sem alterar as classes dos elementos
+- [x] **Visitor** - Define uma nova operação sem alterar as classes dos elementos
 
-### Padrões Criacionais (Creational)
+### Padrões Criacionais (Creational) — 0/5
 
 - [ ] **Abstract Factory** - Cria famílias de objetos relacionados
 - [ ] **Builder** - Constrói objetos complexos passo a passo
@@ -50,15 +61,15 @@ DesignPatterns/
 - [ ] **Prototype** - Cria novos objetos clonando instâncias existentes
 - [ ] **Singleton** - Garante uma única instância de uma classe
 
-### Padrões Estruturais (Structural)
+### Padrões Estruturais (Structural) — 7/7
 
-- [ ] **Adapter** - Permite que interfaces incompatíveis trabalhem juntas
-- [ ] **Bridge** - Separa uma abstração de sua implementação
-- [ ] **Composite** - Compõe objetos em estruturas de árvore
-- [ ] **Decorator** - Adiciona responsabilidades a objetos dinamicamente
-- [ ] **Facade** - Fornece uma interface simplificada para um subsistema
-- [ ] **Flyweight** - Compartilha objetos para suportar grandes quantidades
-- [ ] **Proxy** - Fornece um substituto para controlar o acesso a um objeto
+- [x] **Adapter** - Permite que interfaces incompatíveis trabalhem juntas
+- [x] **Bridge** - Separa uma abstração de sua implementação
+- [x] **Composite** - Compõe objetos em estruturas de árvore
+- [x] **Decorator** - Adiciona responsabilidades a objetos dinamicamente
+- [x] **Facade** - Fornece uma interface simplificada para um subsistema
+- [x] **Flyweight** - Compartilha objetos para suportar grandes quantidades
+- [x] **Proxy** - Fornece um substituto para controlar o acesso a um objeto
 
 ## 🚀 Como Executar
 
