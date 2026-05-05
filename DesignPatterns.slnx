@@ -21,4 +21,7 @@
     <Project Path="Flyweight/Flyweight.csproj" Id="e5f6d3a3-de0c-40cc-9a9a-937ee13eaa27" />
     <Project Path="Proxy/Proxy.csproj" Id="20cc2a96-6d74-4daf-a528-08470333d469" />
   </Folder>
+  <Folder Name="/Creational/">
+    <Project Path="AbstractFactory/AbstractFactory.csproj" Id="76a98afe-7da7-4fc6-a8dd-cc913752377c" />
+  </Folder>
 </Solution>
