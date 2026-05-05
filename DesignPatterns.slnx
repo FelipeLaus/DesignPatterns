@@ -16,5 +16,6 @@
     <Project Path="Adapter/Adapter.csproj" Id="eb76daa9-9b5d-4afc-9003-a66c37dceea6" />
     <Project Path="Bridge/Bridge.csproj" Id="70f1a199-c5c1-476a-9e6c-dd76503835f5" />
     <Project Path="Composite/Composite.csproj" Id="3d225a91-2b48-4a85-bf6e-95fc9b766096" />
+    <Project Path="Decorator/Decorator.csproj" Id="70fad3b6-ec23-4f3f-b790-d6a2001be8bf" />
   </Folder>
 </Solution>
