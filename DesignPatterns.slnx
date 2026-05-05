@@ -23,5 +23,6 @@
   </Folder>
   <Folder Name="/Creational/">
     <Project Path="AbstractFactory/AbstractFactory.csproj" Id="76a98afe-7da7-4fc6-a8dd-cc913752377c" />
+    <Project Path="Builder/Builder.csproj" Id="e6678bd0-e0bc-4db9-a9c4-5b101e55309d" />
   </Folder>
 </Solution>
