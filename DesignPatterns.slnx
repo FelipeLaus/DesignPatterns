@@ -25,5 +25,6 @@
     <Project Path="AbstractFactory/AbstractFactory.csproj" Id="76a98afe-7da7-4fc6-a8dd-cc913752377c" />
     <Project Path="Builder/Builder.csproj" Id="e6678bd0-e0bc-4db9-a9c4-5b101e55309d" />
     <Project Path="FactoryMethod/FactoryMethod.csproj" Id="9cbdc79c-e9c5-4a4d-bc98-7240cd735ab7" />
+    <Project Path="Prototype/Prototype.csproj" Id="f9f146b6-85c8-47f2-9519-f3f961278f22" />
   </Folder>
 </Solution>
