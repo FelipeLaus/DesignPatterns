@@ -14,5 +14,6 @@
   </Folder>
   <Folder Name="/Structural/">
     <Project Path="Adapter/Adapter.csproj" Id="eb76daa9-9b5d-4afc-9003-a66c37dceea6" />
+    <Project Path="Bridge/Bridge.csproj" Id="70f1a199-c5c1-476a-9e6c-dd76503835f5" />
   </Folder>
 </Solution>
